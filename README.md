@@ -1,6 +1,6 @@
 # calm-bp-elastic
 
-  - Download Nutanix Calm blueprint (.json) in order to run blueprint in Prism Cnetral hosted Calm service.
+  - Download Nutanix Calm blueprint (.json) in order to run blueprint in Nutanix Prism Central hosted Calm service.
   - On upload to Calm service all previous blueprint credentials are invalidated
   - Create new private/public key pair
   - Populate blueprint credentials (with private key) and application profile variables (with public key string)
