@@ -5,14 +5,9 @@
   - Create new private/public key pair
   - Populate blueprint credentials (with private key) and application profile variables (with public key string)
    
-# Generating Your Own Public Key
-
 Github has an excellent guide on generating SSH keys: https://help.github.com/articles/generating-ssh-keys
 
-
-# VM/App access
-
-o The macros below are resolved in the RUNNING application - see overview section of the application instance in Calm service.
+* The macros below are resolved in the RUNNING application - see overview section of the application instance in Calm service.
 
 >Blueprint VM/App access info :
 
